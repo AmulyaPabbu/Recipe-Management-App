@@ -1,0 +1,12 @@
+Review and Retrospective
+Conducted a review of the testing process:
+Strengths:
+Efficient Defect Tracking: The defects were identified quickly and tracked effectively, leading to prompt resolutions.
+Comprehensive Test Coverage: All critical areas of the application were covered, ensuring thorough validation of functionalities.
+Weaknesses:
+Test Case Documentation: There were inconsistencies in the documentation of test cases, which could lead to confusion.
+Communication: Coordination and communication regarding testing progress and issues were sometimes delayed.
+Implement Changes:
+Improve Documentation Standards: Establish clear guidelines for documenting test cases to ensure consistency and clarity.
+Enhance Communication: Implement regular updates and check-ins to improve team communication and coordination during testing.
+
